@@ -5,4 +5,6 @@ Este estudo de caso teve como objetivo reduzir a rotatividade de turnover da emp
 
 Primeiramente, foi analisada uma análise exploratória de dados, para o entendimento e possíveis insights de cada variável na base analisada. Depois foram efetuadas associações com a variável respostas, para entendermos as variáveis mais importantes no estudo em questão.
 
-Tudo explicada detalhadamente no documento em anexo.
+Tudo explicado detalhadamente no documento em anexo.
+
+----
